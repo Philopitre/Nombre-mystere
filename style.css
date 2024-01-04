@@ -23,7 +23,6 @@ main {
   border-radius: 10px;
   box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
   text-align: center;
-
 }
 
 p {
@@ -43,7 +42,6 @@ input {
   border: 2px solid #0B6FDC;
   border-radius: 60PX 0 0 60PX;
   text-align: center;
-
 }
 
 h4 {
@@ -81,7 +79,6 @@ a {
 }
 
 a:hover {
-
   background-color: transparent;
   color: #0B6FDC;
 }
